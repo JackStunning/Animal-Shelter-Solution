@@ -36,7 +36,7 @@ _Takes info form the user and makes an animal out of the info and pushes it to a
 ### Requirements to Run
 * _.NET Core_
 * _ASP.NET Core MVC_
-*_Entity Framework_
+* _Entity Framework_
 * _Command Prompt_
 * _Web Browser_
 
@@ -78,7 +78,7 @@ _Takes info form the user and makes an animal out of the info and pushes it to a
   * _Example Input: clicks button_
   * _Example Output: it will return you to the animal list with your new animal there_
 
- * _If user clicks a animal name_
+* _If user clicks a animal name_
   * _Example Input: clicks name_
   * _Example Output: will show details about animal like breed, name, gender and date it was added_
 
