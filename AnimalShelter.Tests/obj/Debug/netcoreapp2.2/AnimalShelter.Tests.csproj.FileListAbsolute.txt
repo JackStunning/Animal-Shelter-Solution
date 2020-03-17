@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/Debug/netcoreapp2.2/AnimalShelter.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/Debug/netcoreapp2.2/AnimalShelter.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/Debug/netcoreapp2.2/AnimalShelter.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/Debug/netcoreapp2.2/AnimalShelter.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/AnimalShelter.Tests.deps.json
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/AnimalShelter.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/AnimalShelter.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/AnimalShelter.Tests.dll
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/AnimalShelter.Tests.pdb
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/AnimalShelter.dll
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/bin/Debug/netcoreapp2.2/AnimalShelter.pdb
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/Debug/netcoreapp2.2/AnimalShelter.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/Debug/netcoreapp2.2/AnimalShelter.Tests.dll
+/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/Debug/netcoreapp2.2/AnimalShelter.Tests.pdb

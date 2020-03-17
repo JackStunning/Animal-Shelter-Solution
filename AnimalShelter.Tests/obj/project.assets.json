@@ -5875,11 +5875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter.Tests/AnimalShelter.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/AnimalShelter.Tests.csproj",
       "projectName": "AnimalShelter.Tests",
-      "projectPath": "/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter.Tests/AnimalShelter.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/AnimalShelter.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5896,8 +5896,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter/AnimalShelter.csproj": {
-              "projectPath": "/Users/Guest/Desktop/AnimalShelter.Solution/AnimalShelter/AnimalShelter.csproj"
+            "/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter/AnimalShelter.csproj": {
+              "projectPath": "/Users/Guest/Desktop/Animal-Shelter-Solution/AnimalShelter/AnimalShelter.csproj"
             }
           }
         }
